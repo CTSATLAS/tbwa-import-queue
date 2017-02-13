@@ -1,5 +1,5 @@
 <?php
-$config['plugins.navigation.website.import_queue'] = array(
+$config['plugins.navigation.tools.import_queue'] = array(
     'rel' => 'plugin',
     'title' => 'Import Queue',
     'children' => array(
